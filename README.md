@@ -9,11 +9,11 @@ Este repositório foi criado para armazenar meus estudos e exercícios desenvolv
 
 ## Progresso
 
-![Módulo 1](https://img.shields.io/badge/Módulo%201-Concluído-brightgreen)(#)
-![Módulo 2](https://img.shields.io/badge/Módulo%202-Concluído-brightgreen)(#)
-![Módulo 3](https://img.shields.io/badge/Módulo%203-Em%20Progresso-yellow)(#)
-![Módulo 4](https://img.shields.io/badge/Módulo%204-Não%20Iniciado-lightgrey)(#)
-![Módulo 5](https://img.shields.io/badge/Módulo%205-Não%20Iniciado-lightgrey)(#)
+![Módulo 1](https://img.shields.io/badge/Módulo%201-Concluído-brightgreen)
+![Módulo 2](https://img.shields.io/badge/Módulo%202-Concluído-brightgreen)
+![Módulo 3](https://img.shields.io/badge/Módulo%203-Em%20Progresso-yellow)
+![Módulo 4](https://img.shields.io/badge/Módulo%204-Não%20Iniciado-lightgrey)
+![Módulo 5](https://img.shields.io/badge/Módulo%205-Não%20Iniciado-lightgrey)
 
 ## Observações
 
