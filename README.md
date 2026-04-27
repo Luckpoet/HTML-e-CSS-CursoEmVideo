@@ -24,4 +24,4 @@ Este repositório tem fins educacionais e serve como base para consultas futuras
 Desenvolvido por **Lucas Cavalcante de Oliveira**.
 
 <!--Remover mais tarde-->
-<a href="modulo1/exercicios/ex001/index.html">Executar o exercício 001</a>
+<a href="https://luckpoet.github.io/HTML-e-CSS-CursoEmVideo/modulo1/exercicios/ex001/">Executar o exercício 001</a>
