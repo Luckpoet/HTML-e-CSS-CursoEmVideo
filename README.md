@@ -22,3 +22,6 @@ Este repositório tem fins educacionais e serve como base para consultas futuras
 ## Autor
 
 Desenvolvido por **Lucas Cavalcante de Oliveira**.
+
+<!--Remover mais tarde-->
+<a href="modulo1/exercicios/ex001/index.html">Executar o exercício 001</a>
