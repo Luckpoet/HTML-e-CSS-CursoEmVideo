@@ -7,12 +7,29 @@
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
+        }
 
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: lightgray;
         }
 
         table {
             width: 500px;
             border-collapse: collapse;
+            position: relative;
+        }
+
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: gray;
+        }
+
+        tbody > tr:nth-child(odd) {
+            background-color: lightgray;
         }
 
         td, th {
@@ -36,6 +53,7 @@
     <!--
         ANATOMIA PARA TABELAS GRANDES
         TABLE
+            CAPTION
             THEAD
                 TR, TD, TH
             TBODY
@@ -45,10 +63,11 @@
     -->
 
     <table>
+        <caption>População das Unidades Federativas</caption>
         <thead>
             <tr>
-                <th>Unidade Federativa</th>
-                <th>População</th>
+                <th scope="col">Estado</th>
+                <th scope="col" style="width: 50px;">População</th>
             </tr>
         </thead>
 
@@ -167,10 +186,35 @@
         
         <tfoot>
             <tr>
-                <th>Total de Habitantes</th>
+                <th scope="row">Total de Habitantes</th>
                 <td class="numero"><strong>212.447.732</strong></td>
             </tr>
         </tfoot>
     </table>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi earum esse architecto ex explicabo in autem corporis pariatur quidem, eos nulla cum voluptatum ullam exercitationem sed rem vitae assumenda expedita.
+    Doloremque, quam, accusamus optio molestias in voluptatibus perspiciatis nostrum hic quia, laudantium molestiae maxime? Atque repellat deleniti a odio blanditiis veritatis suscipit, sequi modi dicta excepturi cupiditate exercitationem? Ex, fugit!
+    Laborum iure neque, aperiam enim quis exercitationem in tempore ad consectetur perferendis voluptas quibusdam ducimus iste provident vel eaque? Quae possimus placeat qui, in corporis eveniet blanditiis accusantium similique voluptatum?
+    Ipsa totam ex, in vel accusantium amet dicta vero libero praesentium voluptates molestiae iusto sed animi ea quas voluptatem voluptatibus. Minima adipisci velit excepturi voluptates facere ex consequatur facilis doloribus.</p>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi earum esse architecto ex explicabo in autem corporis pariatur quidem, eos nulla cum voluptatum ullam exercitationem sed rem vitae assumenda expedita.
+    Doloremque, quam, accusamus optio molestias in voluptatibus perspiciatis nostrum hic quia, laudantium molestiae maxime? Atque repellat deleniti a odio blanditiis veritatis suscipit, sequi modi dicta excepturi cupiditate exercitationem? Ex, fugit!
+    Laborum iure neque, aperiam enim quis exercitationem in tempore ad consectetur perferendis voluptas quibusdam ducimus iste provident vel eaque? Quae possimus placeat qui, in corporis eveniet blanditiis accusantium similique voluptatum?
+    Ipsa totam ex, in vel accusantium amet dicta vero libero praesentium voluptates molestiae iusto sed animi ea quas voluptatem voluptatibus. Minima adipisci velit excepturi voluptates facere ex consequatur facilis doloribus.</p>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi earum esse architecto ex explicabo in autem corporis pariatur quidem, eos nulla cum voluptatum ullam exercitationem sed rem vitae assumenda expedita.
+    Doloremque, quam, accusamus optio molestias in voluptatibus perspiciatis nostrum hic quia, laudantium molestiae maxime? Atque repellat deleniti a odio blanditiis veritatis suscipit, sequi modi dicta excepturi cupiditate exercitationem? Ex, fugit!
+    Laborum iure neque, aperiam enim quis exercitationem in tempore ad consectetur perferendis voluptas quibusdam ducimus iste provident vel eaque? Quae possimus placeat qui, in corporis eveniet blanditiis accusantium similique voluptatum?
+    Ipsa totam ex, in vel accusantium amet dicta vero libero praesentium voluptates molestiae iusto sed animi ea quas voluptatem voluptatibus. Minima adipisci velit excepturi voluptates facere ex consequatur facilis doloribus.</p>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi earum esse architecto ex explicabo in autem corporis pariatur quidem, eos nulla cum voluptatum ullam exercitationem sed rem vitae assumenda expedita.
+    Doloremque, quam, accusamus optio molestias in voluptatibus perspiciatis nostrum hic quia, laudantium molestiae maxime? Atque repellat deleniti a odio blanditiis veritatis suscipit, sequi modi dicta excepturi cupiditate exercitationem? Ex, fugit!
+    Laborum iure neque, aperiam enim quis exercitationem in tempore ad consectetur perferendis voluptas quibusdam ducimus iste provident vel eaque? Quae possimus placeat qui, in corporis eveniet blanditiis accusantium similique voluptatum?
+    Ipsa totam ex, in vel accusantium amet dicta vero libero praesentium voluptates molestiae iusto sed animi ea quas voluptatem voluptatibus. Minima adipisci velit excepturi voluptates facere ex consequatur facilis doloribus.</p>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi earum esse architecto ex explicabo in autem corporis pariatur quidem, eos nulla cum voluptatum ullam exercitationem sed rem vitae assumenda expedita.
+    Doloremque, quam, accusamus optio molestias in voluptatibus perspiciatis nostrum hic quia, laudantium molestiae maxime? Atque repellat deleniti a odio blanditiis veritatis suscipit, sequi modi dicta excepturi cupiditate exercitationem? Ex, fugit!
+    Laborum iure neque, aperiam enim quis exercitationem in tempore ad consectetur perferendis voluptas quibusdam ducimus iste provident vel eaque? Quae possimus placeat qui, in corporis eveniet blanditiis accusantium similique voluptatum?
+    Ipsa totam ex, in vel accusantium amet dicta vero libero praesentium voluptates molestiae iusto sed animi ea quas voluptatem voluptatibus. Minima adipisci velit excepturi voluptates facere ex consequatur facilis doloribus.</p>
 </body>
 </html>
