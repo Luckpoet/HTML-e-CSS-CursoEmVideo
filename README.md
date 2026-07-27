@@ -13,7 +13,7 @@ Este repositório foi criado para armazenar meus estudos e exercícios desenvolv
 ![Módulo 2](https://img.shields.io/badge/Módulo%202-Concluído-brightgreen)
 ![Módulo 3](https://img.shields.io/badge/Módulo%203-Concluído-brightgreen)
 ![Módulo 4](https://img.shields.io/badge/Módulo%204-Concluído-brightgreen)
-![Módulo 5](https://img.shields.io/badge/Módulo%205-Em%20Progresso-yellow)
+![Módulo 5](https://img.shields.io/badge/Módulo%205-Concluído-brightgreen)
 
 ## Observações
 
